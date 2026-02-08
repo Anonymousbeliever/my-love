@@ -15,9 +15,9 @@ const GALLERY_ITEMS = [
   { 
     id: 2, 
     image: "/images/us.jpeg",
-    title: "Our First Kiss",
-    caption: "The moment I knew. The moment everything made sense. The moment my heart found its home.",
-    poem: "In that kiss, I tasted forever. And I've been addicted ever since."
+    title: "Our Kiss",
+    caption: "Every time our lips meet, the world fades away. Every time I kiss you, I fall deeper. Every kiss with you feels like coming home.",
+    poem: "In your kiss, I found everything I was searching for. And I never want to let go."
   },
 ]
 
